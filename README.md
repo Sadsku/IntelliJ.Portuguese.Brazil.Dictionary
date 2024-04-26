@@ -14,9 +14,9 @@ Conforme foi observado e explicado pelo Evaldo Wolkers no seu blog: [https://eva
 
 ## Instalação
 
-Para instalar o dicionario na sua IDE, vá para o menu **Preferences > Editor > Spelling** (ou pesquise **Spelling** na so search Box no menu Preferences) em qualquer umas da IDEs da IntelliJ.
+Para instalar o dicionario na sua IDE, vá para o menu **Settings > Editor > > Natural Languages > Spelling** (ou pesquise **Spelling** na so search Box no menu Preferences) em qualquer umas da IDEs da IntelliJ.
 
-No menu **Spelling**, selecione a aba *Dictionaries* e clique na opção **+** para adicionar a pasta do dicionario baixado, conforme a imagem abaixo:  
+No menu **Spelling**, na aba *Custom Dictionaries*, clique na opção **+** para adicionar a pasta do dicionario baixado, conforme a imagem abaixo:  
 
 ![](doc/images/idea-adding-dict.png)
 
